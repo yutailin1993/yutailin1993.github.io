@@ -2,8 +2,9 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
+        <img src="{{ site.baseurl }}public/Ted.jpg" width="250" height="350" class="inline"/>
         <a href="{{ site.baseurl }}">
-          {{ site.title }}
+			<font size="8">{{ site.title }}</font>
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
@@ -26,11 +27,13 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <a class="sidebar-nav-item" href="mailto:ytlin1993@gmail.com">Email</a>
+      <a class="sidebar-nav-item" href="https://github.com/yutailin1993">GitHub</a>
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/yu-tai-lin-2ba09514b">LinkedIn</a>
+      <a class="sidebar-nav-item" href="https://">CV</a>
+	  <span class="sidebar-nav-item"><!--Currently v{{ site.version }}--></span>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+	<p><!--&copy; {{ site.time | date: '%Y' }}. All rights reserved.--></p>
   </div>
 </div>
