@@ -179,6 +179,116 @@ pre code {
   background-color: transparent;
 }
 
+/* bootstrap customize layout */
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+/* personal customize layout */
+.box {
+  display: flex;
+  vertical-align: center;
+}
+.img-me {
+  border: 3px solid white;
+  float: left;
+  height: 200px;
+}
+.header-text {
+  margin-top: 60px;
+  margin-left: 220px;
+}
+.header-text-name {
+  font-weight: bold;
+  font-size: 40px;
+}
+.header-text-email {
+  font-size: 20px;
+  font-style: italic;
+}
+.header-text-desc {
+  font-size: 20px;
+}
+#contact-info {
+  position: absolute;
+  left: 80%;
+  width: 20%;
+  top: 360px;
+  height: 100px;
+  background-color: #EEE;
+}
+.vspace {
+  margin-bottom: 20px;
+}
+.vspace-top {
+  margin-top: 30px;
+}
+.paper-image {
+  display: block;
+  width: 150px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.paper-title {
+  font-weight: bold;
+}
+.paper-authors {
+  font-style: italic;
+}
+
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.text-justify {
+  text-align: justify;
+}
+.text-nowrap {
+  white-space: nowrap;
+}
+.text-lowercase {
+  text-transform: lowercase;
+}
+.text-uppercase {
+  text-transform: uppercase;
+}
+.text-capitalize {
+  text-transform: capitalize;
+}
+.text-muted {
+  color: #777;
+}
+.text-primary {
+  color: #337ab7;
+}
+a.text-primary:hover {
+  color: #286090;
+}
+.text-success {
+  color: #3c763d;
+}
+a.text-success:hover {
+  color: #2b542c;
+}
+.text-info {
+  color: #31708f;
+}
+
+.icon-image {
+  float: left;
+  margin-right: 50px;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 150px;
+  height: 150px;
+}
+
 /* Pygments via Jekyll */
 .highlight {
   margin-bottom: 1rem;
@@ -276,6 +386,16 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   color: #717171;
   background-color: #f9f9f9;
+}
+
+.div1 {
+  display: flex;
+  align-items: center;
+}
+
+.div2 {
+  display: flex;
+  vertical-align: middle;
 }
 
 
