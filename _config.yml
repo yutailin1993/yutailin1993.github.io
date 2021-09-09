@@ -11,7 +11,7 @@ plugins:
 
 # Setup
 title:            Yu-Tai Lin
-tagline:          'A Jekyll theme'
+tagline:          ''
 description:      ''
 url:              http://yutailin1993.github.io
 baseurl:          /
