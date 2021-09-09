@@ -44,8 +44,8 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
         <div class='div1'>
             <img class='icon-image' src='{{site.baseurl}}public/academia_sinica.png'>
             <div>
-                <b>Academia Sinica, Taiwan</b> <br/>
-	            <i>Research Assistant</i> <br/>
+                <b>Research Assistant</b> <br/>
+	            <i>Academia Sinica, Taiwan</i> <br/>
                 Aug. 2020 - Present <br/>
                 Taipei, Taiwan <br/>
             </div>
@@ -55,8 +55,8 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
         <div class='div1'>
             <img class='icon-image' src='{{site.baseurl}}public/synology.png'>
 	        <div>
-               <b>Synology Inc.</b> <br/>
-	           <i>Software Engineer</i> <br/>
+               <b>Software Engineer</b> <br/>
+	           <i>Synology Inc.</i> <br/>
                Nov. 2018 - Aug. 2020 <br/>
 	           New Taipei, Taiwan <br/>
 	        </div>
@@ -66,8 +66,8 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
         <div class='div1'>
             <img class='icon-image' src='{{site.baseurl}}public/Gigabyte.png'>
             <div>
-                <b>GIGABYTE Inc.</b> <br/>
-	            <i>Software Engineer (Intern)</i> <br/>
+                <b>Software Engineer (Intern)</b> <br/>
+	            <i>GIGABYTE Inc.</i> <br/>
                 Jul. 2014 - Aug. 2014 <br/>
                 New Taipei, Taiwan <br/>
             </div>
@@ -83,8 +83,8 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
         <div class='div1'>
             <img class='icon-image' src='{{site.baseurl}}public/NTHU.png'>
             <div>
-                <b>National Tsing Hua University</b> <br/>
-	            <i>M.S. in Computer Science</i> <br/>
+                <b>M.S. in Computer Science</b> <br/>
+	            <i>National Tsing Hua University</i> <br/>
                 Sep. 2016 - Jun. 2018 <br/>
                 Hsinchu, Taiwan <br/>
             </div>
@@ -94,8 +94,8 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
         <div class='div1'>
             <img class='icon-image' src='{{site.baseurl}}public/NCKU.jpg'>
 	        <div>
-               <b>National Cheng Kong University</b> <br/>
-	           <i>B.S. in Engineering Science</i> <br/>
+               <b>B.S. in Engineering Science</b> <br/>
+	           <i>National Cheng Kong University</i> <br/>
                Sep. 2012 - Jun. 2016 <br/>
 	           Tainan, Taiwan <br/>
 	        </div>
