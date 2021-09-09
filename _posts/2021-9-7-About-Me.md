@@ -64,7 +64,7 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
     </div>
     <div class='row vspace-top'>
         <div class='div1'>
-            <img class='icon-image' src='{{site.baseurl}}public/gigabyte.png'>
+            <img class='icon-image' src='{{site.baseurl}}public/Gigabyte.png'>
             <div>
                 <b>GIGABYTE Inc.</b> <br/>
 	            <i>Software Engineer (Intern)</i> <br/>
