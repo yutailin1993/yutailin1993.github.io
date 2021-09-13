@@ -19,7 +19,7 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
  *<b>Yu-Tai Lin</b>*<span style="color:grey">*, Yu-Cheng Hsiao, and Chih-Yu Wang* </span>\
  IEEE Global Communications Conference <span style="color:blue">(GLOBECOM)</span>, 2021 \
  <!-- [\[paper\]](https://www.google.com.tw/?hl=zh_TW) -->
- \[paper\]
+ [\[paper\]](https://yutailin1993.github.io/papers/2021004115.pdf)
 
 * **Voting-Based Ensemble Modelfor Network Anomaly Detection** \
  <span style="color:grey">*Tzu-Hsin Yang,*</span> *<b>Yu-Tai Lin</b>*<span style="color:gray">*, Chao-Lun Wu, and Chih-Yu Wang* </span>\
