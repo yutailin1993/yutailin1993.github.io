@@ -15,6 +15,11 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
 ---
 # <span style="color: #5032FA">Publications</span>
 
+* **Joint Bandwidth Allocation and Computation Offloading in Multi-Access Edge Computing with Battery-less Intermittent Devices** \
+ <span style="color:grey">*Yu-Cheng Hsiao*,</span> *<b>Yu-Tai Lin</b>*<span style="color:grey">*, and Chih-Yu Wang* </span>\
+ IEEE Transactions on Mobile Computing (Submitted)\
+ [paper]
+
 * **Enabling Mobile Edge Computing for Battery-less Intermittent IoT Devices** \
  *<b>Yu-Tai Lin</b>*<span style="color:grey">*, Yu-Cheng Hsiao, and Chih-Yu Wang* </span>\
  IEEE Global Communications Conference <span style="color:blue">(GLOBECOM)</span>, 2021 \
@@ -28,7 +33,7 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
 
 * **Video Popularity Prediction: An Autoencoder Approach With Clustering** \
  *<b>Yu-Tai Lin</b>*<span style="color:grey">*, Chia-Cheng Yen, and Jia-Shung Wang* </span>\
- IEEE Access, volume8, 2020 \
+ IEEE Access, volume 8, 2020 \
  [\[paper\]](https://ieeexplore.ieee.org/document/9139947)
 
 * **Cooperative Caching Plan of Popular Videos for Mobile Users by Grouping Preferences** \
