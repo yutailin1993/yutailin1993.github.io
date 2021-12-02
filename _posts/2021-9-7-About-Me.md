@@ -26,7 +26,7 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
  <!-- [\[paper\]](https://www.google.com.tw/?hl=zh_TW) -->
  [\[paper\]](https://yutailin1993.github.io/papers/2021004115.pdf)
 
-* **Voting-Based Ensemble Modelfor Network Anomaly Detection** \
+* **Voting-Based Ensemble Model for Network Anomaly Detection** \
  <span style="color:grey">*Tzu-Hsin Yang,*</span> *<b>Yu-Tai Lin</b>*<span style="color:gray">*, Chao-Lun Wu, and Chih-Yu Wang* </span>\
  IEEE International Conference on Acoustics, Speech and Signal Processing <span style="color:blue">(ICASSP)</span>, 2021 \
  [\[paper\]](https://ieeexplore.ieee.org/document/9414532)
