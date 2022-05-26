@@ -17,7 +17,7 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
 
 * **Joint Bandwidth Allocation and Computation Offloading in Multi-Access Edge Computing with Battery-less Intermittent Devices** \
  <span style="color:grey">*Yu-Cheng Hsiao*,</span> *<b>Yu-Tai Lin</b>*<span style="color:grey">*, and Chih-Yu Wang* </span>\
- IEEE Transactions on Mobile Computing (Submitted)\
+ IEEE Transactions on Wireless Communications (Submitted)\
  [paper]
 
 * **Enabling Mobile Edge Computing for Battery-less Intermittent IoT Devices** \
