@@ -5,9 +5,9 @@ title: About Me
 
 # <span style="color: #5032FA">About Me</span>
 
-I am looking for a Ph.D. position starting from 2022 Fall.
+I am a Ph.D. student at Georgia Institute of Technology in Atlanta, USA.
 <p align="justify">
-I currently work with Prof. Chih-Yu Wang as a Research Assitant at <a href="https://www.citi.sinica.edu.tw/">Research Center for Information Technology Innovation, Academia Sinica, Taiwan</a>. I have broad interests in <b>Wireless Communication</b> and <b>Networking</b>. In particular, I am interested in their intersections with <b>IoT</b> and <b>Edge Computing</b>.
+I currently work with Prof. Karthikeyan Sundaresan at <a href="https://marga.ece.gatech.edu/">MARGA</a>. I have broad interests in <b>Wireless Networks</b> and <b>Sensing</b>. In particular, I am interested in their intersections with <b>Localization</b>, <b>IoT</b>, and <b>Edge Computing</b>.
 </p>
 
 For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.pdf)/[GitHub](https://github.com/yutailin1993)/[LinkedIn](https://www.linkedin.com/in/yu-tai-lin-2ba09514b/).
@@ -15,16 +15,20 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
 ---
 # <span style="color: #5032FA">Publications</span>
 
-* **Joint Bandwidth Allocation and Computation Offloading in Multi-Access Edge Computing with Battery-less Intermittent Devices** \
- <span style="color:grey">*Yu-Cheng Hsiao*,</span> *<b>Yu-Tai Lin</b>*<span style="color:grey">*, and Chih-Yu Wang* </span>\
- IEEE Transactions on Wireless Communications (Submitted)\
+* **A New Paradigm of Communication-Aware Collaborative Positioning for FutureG Wireless Systems** \
+ *<b>Yu-Tai Lin</b>*<span style="color:grey">* and Karthikeyan Sundaresan* </span>\
+ ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing <span style="color:blue">(MobiHoc)</span>, 2023\
+ [paper]
+
+* **Queueing Model for Intermittent Communication and Computing of Battery-less Edge Computing** \
+ *<b>Yu-Tai Lin</b>*<span style="color:grey">*, Chi-Yang Kuo, Ming-Hsuan Tsai, and Chih-Yu Wang* </span>\
+ IEEE International Conference on Communications Workshops <span style="color:blue">(ICC Workshops)</span>, 2023 \
  [paper]
 
 * **Enabling Mobile Edge Computing for Battery-less Intermittent IoT Devices** \
  *<b>Yu-Tai Lin</b>*<span style="color:grey">*, Yu-Cheng Hsiao, and Chih-Yu Wang* </span>\
  IEEE Global Communications Conference <span style="color:blue">(GLOBECOM)</span>, 2021 \
- <!-- [\[paper\]](https://www.google.com.tw/?hl=zh_TW) -->
- [\[paper\]](https://yutailin1993.github.io/papers/2021004115.pdf)
+ [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9685694)
 
 * **Voting-Based Ensemble Model for Network Anomaly Detection** \
  <span style="color:grey">*Tzu-Hsin Yang,*</span> *<b>Yu-Tai Lin</b>*<span style="color:gray">*, Chao-Lun Wu, and Chih-Yu Wang* </span>\
@@ -46,12 +50,21 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
 
 <div class="container">
     <div class='row vspace-top'>
+		<div class='div1'>
+            <img class='icon-image' src='{{site.baseurl}}public/gt.png'>
+            <div>
+                <b>Research Assistant</b> <br/>
+	            <i>Georgia Institute of Technology</i> <br/>
+                Aug. 2022 - Present <br/>
+                Atlanta, USA <br/>
+            </div>
+        </div>
         <div class='div1'>
             <img class='icon-image' src='{{site.baseurl}}public/academia_sinica.png'>
             <div>
                 <b>Research Assistant</b> <br/>
 	            <i>Academia Sinica, Taiwan</i> <br/>
-                Aug. 2020 - Present <br/>
+                Aug. 2020 - Jul. 2022 <br/>
                 Taipei, Taiwan <br/>
             </div>
         </div>
@@ -84,6 +97,17 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
 # <span style="color: #5032FA">Education</span>
 
 <div class="container">
+	<div class='row vspace-top'>
+        <div class='div1'>
+            <img class='icon-image' src='{{site.baseurl}}public/gt.png'>
+            <div>
+                <b>Ph.D. in Electrical and Computer Engineering</b> <br/>
+	            <i>Georgia Institute of Technology</i> <br/>
+                Aug. 2022 - May 2027 (expected) <br/>
+                Atlanta, USA <br/>
+            </div>
+        </div>
+    </div>
     <div class='row vspace-top'>
         <div class='div1'>
             <img class='icon-image' src='{{site.baseurl}}public/NTHU.png'>
