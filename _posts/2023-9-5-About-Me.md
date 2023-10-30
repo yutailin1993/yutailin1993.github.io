@@ -18,7 +18,7 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
 * **A New Paradigm of Communication-Aware Collaborative Positioning for FutureG Wireless Systems** \
  *<b>Yu-Tai Lin</b>*<span style="color:grey"> and Karthikeyan Sundaresan </span>\
  ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing <span style="color:blue">(MobiHoc)</span>, 2023\
- [\[paper\]](https://yutailin1993.github.io/papers/Collaborative_Positioning.pdf)
+ [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3565287.3610276)
 
 * **Queueing Model for Intermittent Communication and Computing of Battery-less Edge Computing** \
  *<b>Yu-Tai Lin</b>*<span style="color:grey">*, Chi-Yang Kuo, Ming-Hsuan Tsai, and Chih-Yu Wang* </span>\
