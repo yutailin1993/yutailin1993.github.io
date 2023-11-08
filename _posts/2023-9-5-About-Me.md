@@ -23,7 +23,7 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
 * **Queueing Model for Intermittent Communication and Computing of Battery-less Edge Computing** \
  *<b>Yu-Tai Lin</b>*<span style="color:grey">*, Chi-Yang Kuo, Ming-Hsuan Tsai, and Chih-Yu Wang* </span>\
  IEEE International Conference on Communications Workshops <span style="color:blue">(ICC Workshops)</span>, 2023 \
- [paper]
+ [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10283601)
 
 * **Enabling Mobile Edge Computing for Battery-less Intermittent IoT Devices** \
  *<b>Yu-Tai Lin</b>*<span style="color:grey">*, Yu-Cheng Hsiao, and Chih-Yu Wang* </span>\
