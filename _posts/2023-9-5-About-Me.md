@@ -5,15 +5,18 @@ title: About Me
 
 # <span style="color: #5032FA">About Me</span>
 
-I am a Ph.D. student at Georgia Institute of Technology in Atlanta, USA.
 <p align="justify">
-I currently work with Prof. Karthikeyan Sundaresan at <a href="https://marga.ece.gatech.edu/">MARGA</a>. I have broad interests in <b>Wireless Networks</b> and <b>Sensing</b>. In particular, I am interested in their intersections with <b>Localization</b>, <b>IoT</b>, and <b>Edge Computing</b>.
+I currently work with Prof. Karthikeyan Sundaresan at <a href="https://marga.ece.gatech.edu/">MARGA</a>. I have broad interests in <b>Wireless Networks</b> and <b>Sensing</b>. In particular, I am interested in their intersections of wireless communication with localization, sensing, IoT, edge computing, and non-terrestrial networks.
 </p>
 
 For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.pdf)/[GitHub](https://github.com/yutailin1993)/[LinkedIn](https://www.linkedin.com/in/yu-tai-lin-2ba09514b/).
 
 ---
 # <span style="color: #5032FA">Publications</span>
+* **View-agnostic Human Exercise Cataloging with Single MmWave Radar** \
+ <span style="color:grey">*Alan Liu,*</span> *<b>Yu-Tai Lin</b>*<span style="color:gray">*, and Karthikeyan Sundaresan* </span>\
+ In ACM IMWUT / UbiComp, 2024 \
+ [paper]
 
 * **A New Paradigm of Communication-Aware Collaborative Positioning for FutureG Wireless Systems** \
  *<b>Yu-Tai Lin</b>*<span style="color:grey"> and Karthikeyan Sundaresan </span>\
