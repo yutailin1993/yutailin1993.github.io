@@ -16,7 +16,7 @@ For more information about me: [CV](https://yutailin1993.github.io/CV/Yu-Tai_CV.
 * **View-agnostic Human Exercise Cataloging with Single MmWave Radar** \
  <span style="color:grey">*Alan Liu,*</span> *<b>Yu-Tai Lin</b>*<span style="color:gray">*, and Karthikeyan Sundaresan* </span>\
  In ACM IMWUT / UbiComp, 2024 \
- [paper]
+ [\[paper\]](https://dl.acm.org/doi/10.1145/3678512)
 
 * **A New Paradigm of Communication-Aware Collaborative Positioning for FutureG Wireless Systems** \
  *<b>Yu-Tai Lin</b>*<span style="color:grey"> and Karthikeyan Sundaresan </span>\
